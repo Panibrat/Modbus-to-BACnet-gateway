@@ -1,0 +1,16 @@
+{
+  "name": "modbus-to-bacnet",
+  "version": "1.0.0",
+  "description": "Gateway from Modbus Meter to NAE BACnet",
+  "main": "app.js",
+  "dependencies": {
+    "bacstack": "0.0.1-beta.12",
+    "modbus-serial": "^7.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Panibrat",
+  "license": "ISC"
+}
